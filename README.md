@@ -6,3 +6,7 @@ A simple calendar application that allows a user to save events for each hour of
 ## Screenshot
 
 ![screenshot 1](/assets/images/screenshot1.png)
+
+## Deployed Application
+
+https://usflfelipe.github.io/work-day-scheduler-5/
