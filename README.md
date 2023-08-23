@@ -5,5 +5,5 @@ It`s a simple calendar application that allows the user to save events for each 
 
 ## Screenshot
 
-![screenshot 1](/assets/images/screenshot1.png]
+![screenshot 1](./assets/images/screenshot1.png]
 
